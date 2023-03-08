@@ -1,2 +1,2 @@
 # InfinityRunner2D
- Simple 2D Space Runner 
+ Implemented aт object pool system, with simple animations and UI
